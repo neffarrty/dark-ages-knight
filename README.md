@@ -2,7 +2,7 @@
 ----
 [![Screenshot-32.png](https://i.postimg.cc/brcQNjK8/Screenshot-32.png)](https://postimg.cc/sQmBwbj0)
 
-### About the game
+## About the game
 >"Dark Ages Knight" is a simple 2D platform game written for Linux in C language using the Simple DirectMedia Layer (SDL) cross-platform development library.
 >In the game you have to go through 4 exciting levels:
 > * Level 1: The Journey's Start
@@ -10,10 +10,10 @@
 > * Level 3: In the Hall of the Mountain King
 > * Level 4: Under the Malakar's Castle
 
-### Screenshots from the game
+## Screenshots from the game
 >[![Screenshot-8.png](https://i.postimg.cc/T3zbR0VX/Screenshot-8.png)](https://postimg.cc/gxKjsvtM)
 
-### Dependencies
+## Dependencies
 >For compiling the game you must install next libraries:
 ``` bash
 $ sudo apt-get install libsdl2-dev
@@ -21,7 +21,7 @@ $ sudo apt-get install libsdl2-image-dev
 $ sudo apt-get install libsdl2-ttf-dev
 $ sudo apt-get install libsdl2-mixer-dev
 ```
-### Installing
+## Installing
 >To compile and run the game, in the root folder open the terminal and write the command:
 ``` bash
 $ make all
