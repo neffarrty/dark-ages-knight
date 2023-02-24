@@ -13,7 +13,6 @@
 
 ### Screenshots from the game
 >[![Screenshot-8.png](https://i.postimg.cc/T3zbR0VX/Screenshot-8.png)](https://postimg.cc/gxKjsvtM)
-----
 
 ### Installing
 >To compile and run the game, in the root folder open the terminal and write the command:
