@@ -9,6 +9,6 @@
 ### Installing
 >To compile and run the game, in the root folder open the terminal and write the command:
 ``` bash
-make all
-./endgame
+$ make all
+$ ./endgame
 ```
