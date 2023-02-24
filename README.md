@@ -11,7 +11,7 @@
 > * Level 3: In the Hall of the Mountain King
 > * Level 4: Under the Malakar's Castle
 
-### Screenshots from game
+### Screenshots from the game
 >[![Screenshot-8.png](https://i.postimg.cc/T3zbR0VX/Screenshot-8.png)](https://postimg.cc/gxKjsvtM)
 ----
 
