@@ -14,6 +14,14 @@
 ### Screenshots from the game
 >[![Screenshot-8.png](https://i.postimg.cc/T3zbR0VX/Screenshot-8.png)](https://postimg.cc/gxKjsvtM)
 
+### Dependencies
+>For compiling the game you must install next libraries:
+``` bash
+$ sudo apt-get install libsdl2-dev
+$ sudo apt-get install libsdl2-image-dev
+$ sudo apt-get install libsdl2-ttf-dev
+$ sudo apt-get install libsdl2-mixer-dev
+```
 ### Installing
 >To compile and run the game, in the root folder open the terminal and write the command:
 ``` bash
