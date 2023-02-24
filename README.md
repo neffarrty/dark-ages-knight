@@ -6,7 +6,5 @@
 ### About the game
 >"Dark Ages Knight" is a simple 2D platform game written for Linux in C language using the Simple DirectMedia Layer (SDL) cross-platform development library.
 
-To start the game in the root folder, open the terminal and write the command:
-
-`make all`
-`./endgame`
+To compile the game, in the root folder open the terminal and write the command:`make all`
+To run the game: `./endgame`
