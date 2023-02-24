@@ -1,6 +1,6 @@
 [![header.png](https://i.postimg.cc/rssnQ6kX/header.png)](https://postimg.cc/Zvkx5MnV)
 ----
-[![Screenshot-31.png](https://i.postimg.cc/zB3gJQyp/Screenshot-31.png)](https://postimg.cc/zbZB70SR)
+[![Screenshot-32.png](https://i.postimg.cc/brcQNjK8/Screenshot-32.png)](https://postimg.cc/sQmBwbj0)
 
 ### About the game
 >"Dark Ages Knight" is a simple 2D platform game written for Linux in C language using the Simple DirectMedia Layer (SDL) cross-platform development library.
