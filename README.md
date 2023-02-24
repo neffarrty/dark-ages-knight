@@ -8,6 +8,6 @@
 
 To compile and run the game, in the root folder open the terminal and write the command:
 ```
-make all
-./endgame
+user@user~$ make all
+user@user~$ ./endgame
 ```
