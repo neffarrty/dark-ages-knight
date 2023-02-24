@@ -6,8 +6,8 @@
 ### About the game
 >"Dark Ages Knight" is a simple 2D platform game written for Linux in C language using the Simple DirectMedia Layer (SDL) cross-platform development library.
 >In the game you have to go through 4 exciting levels:
-> * Level 1: Journeys Start
-> * Level 2: Forbiden Forest
+> * Level 1: The Journey's Start
+> * Level 2: Throughout the Forbiden Forest
 > * Level 3: In the Hall of the Mountain King
 > * Level 4: Under the Malakar's Castle 
 
