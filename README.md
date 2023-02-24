@@ -21,7 +21,7 @@ $ sudo apt-get install libsdl2-image-dev
 $ sudo apt-get install libsdl2-ttf-dev
 $ sudo apt-get install libsdl2-mixer-dev
 ```
-## Installing
+## Building
 >To compile and run the game, in the root folder open the terminal and write the command:
 ``` bash
 $ make all
