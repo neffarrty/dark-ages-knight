@@ -12,7 +12,7 @@
 > * Level 4: Under the Malakar's Castle
 
 ### Screenshots from game
-[![Screenshot-8.png](https://i.postimg.cc/T3zbR0VX/Screenshot-8.png)](https://postimg.cc/gxKjsvtM)
+>[![Screenshot-8.png](https://i.postimg.cc/T3zbR0VX/Screenshot-8.png)](https://postimg.cc/gxKjsvtM)
 ----
 
 ### Installing
