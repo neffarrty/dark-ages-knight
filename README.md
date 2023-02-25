@@ -4,8 +4,8 @@
 
 ## About the game
 
->"Dark Ages Knight" is a simple 2D platform game written for Linux in C language using the Simple DirectMedia Layer (SDL) cross-platform development library.
->In the game you have to go through 4 exciting levels:
+>"Dark Ages Knight" is a simple 2D platform game сreated by six people in 5 days for Linux in C language using the Simple DirectMedia Layer (SDL) cross-platform development library.
+>In the game you have to overcome all the trials facing the main character - the knight Richard. You have to go through 4 exciting levels:
 > * Level 1: The Journey's Start
 > * Level 2: Throughout the Forbiden Forest
 > * Level 3: In the Hall of the Mountain King
