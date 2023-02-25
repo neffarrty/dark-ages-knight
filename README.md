@@ -33,4 +33,4 @@ $ ./endgame
 ```
 ## Gameplay
 
->Wathch "Dark Ages Knight" gameplay on [YouTube](https://www.youtube.com/watch?v=HVTampKL5gw)
+>Watch "Dark Ages Knight" gameplay on [YouTube](https://www.youtube.com/watch?v=HVTampKL5gw)
