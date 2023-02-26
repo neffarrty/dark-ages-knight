@@ -18,7 +18,7 @@
 ## Dependencies
 
 >For compiling the game you must install next libraries:
-``` bash
+``` shell
 $ sudo apt-get install libsdl2-dev
 $ sudo apt-get install libsdl2-image-dev
 $ sudo apt-get install libsdl2-ttf-dev
@@ -27,7 +27,7 @@ $ sudo apt-get install libsdl2-mixer-dev
 ## Building
 
 >To compile and run the game, in the root folder open the terminal and write the command:
-``` bash
+``` shell
 $ make all
 $ ./endgame
 ```
