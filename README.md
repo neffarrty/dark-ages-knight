@@ -28,8 +28,17 @@ $ sudo apt-get install libsdl2-mixer-dev
 
 >To compile and run the game, in the root folder open the terminal and write the command:
 ``` shell
-$ make all
-$ ./endgame
+# clone the repository
+git clone https://github.com/neffarrty/Ucode-Connect-Marathon-C-Endgame/
+
+# go to the project repository
+cd Ucode-Connect-Marathon-C-Endgame/
+
+# run Makefile
+make all
+
+# run game
+./endgame
 ```
 ## Gameplay
 
