@@ -29,10 +29,10 @@ sudo apt-get install libsdl2-mixer-dev
 >To compile and run the game, in the root folder open the terminal and write the command:
 ``` shell
 # clone the repository
-git clone https://github.com/neffarrty/Ucode-Connect-Marathon-C-Endgame/
+git clone https://github.com/neffarrty/dark-ages-knight/
 
 # go to the project repository
-cd Ucode-Connect-Marathon-C-Endgame/
+cd dark-ages-knight/
 
 # run Makefile
 make all
